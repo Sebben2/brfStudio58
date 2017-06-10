@@ -1,0 +1,18 @@
+{
+  "name": "brf-studio58",
+  "version": "0.0.1",
+  "description": "studio58 webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "admin@192.168.1.82:/volume1/home/admin/repos/brfStudio58"
+  },
+  "keywords": [
+    "studio58"
+  ],
+  "author": "sebrun",
+  "license": "ISC"
+}
