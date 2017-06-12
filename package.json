@@ -14,5 +14,9 @@
     "studio58"
   ],
   "author": "sebrun",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "markdown-it": "^8.3.1"
+  }
 }
